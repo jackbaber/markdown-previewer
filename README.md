@@ -1,2 +1,2 @@
 # markdown-previewer
-### a simple markdown previewer built with React 
+A simple markdown previewer built with React 
